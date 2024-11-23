@@ -6,7 +6,10 @@ in terms of features being used to represent each input from the original raw da
 of these 3 datasets further consists of a training set, a validation set, and a test set. The vali-
 dation set can be used for selecting the best hyperparameters or any other analyses . While the validation set
 labels are provided , the test set labels are hidden.
-More of the description of project is in project description pdf
+More of the description of task of project is in project description pdf
+Detailed explanation And How did we get to the final model and statistics on amount of data and accuracy is included in 
+group_no_61_project_report.pdf
+
 
 The end model for question1 is in question1_feature_extraction_thenSVm.py file if you want to train it at
 different percentage of data you can just change the test size parameter in train_test_split in line 102
