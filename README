@@ -1,0 +1,13 @@
+The end model for question1 is in question1_feature_extraction_thenSVm.py file if you want to train it at
+different percentage of data you can just change the test size parameter in train_test_split in line 102
+
+The end model for question 2 is question2.ipynb you can also train this model at different percentage of data
+by changing test size in train test split
+
+61.py file contains all the end models and the combined model you can just run at it and it will save 
+the predictions in the file pred_text.txt pred_feat.txt  pred_emoticon.txt pred_combined.txt and while it has
+been run it needs numpy, pandas, pytorch , tenserflow,sklearn libraries installed it will also give you the 
+accuracy on validation data also. for it run fine each data should be stored in the directory as given in
+project
+
+I also have provided the predictions in the name provided( when run on my system)
